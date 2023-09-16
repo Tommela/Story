@@ -5,4 +5,9 @@ git status //to check status
 git log
 
 First "git init"
+git add .  (or)  git add file.txt
+git commit -m "Any Message"
+
+
+
 
