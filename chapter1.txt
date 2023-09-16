@@ -16,4 +16,18 @@ Restore as previous
 git checkout file2.txt
 
 
+----------------------------
+git remote add origin https://github.com/Tommela/Story.git
+git push -u origin master   //push to the github repositories
 
+
+
+--------------------------------------
+remove commit files from staging area
+git rm --cached -r .
+
+
+
+
+-------------------
+https://github.com/github/gitignore
