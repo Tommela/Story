@@ -1,0 +1,8 @@
+This is chapter 1.
+
+git status //to check status
+
+git log
+
+First "git init"
+
