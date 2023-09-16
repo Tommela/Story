@@ -8,6 +8,12 @@ First "git init"
 git add .  (or)  git add file.txt
 git commit -m "Any Message"
 
+-----------------------------------------
+git diff chapter1.txt // to know different between previous and current
+
+
+Restore as previous
+git checkout file2.txt
 
 
 
