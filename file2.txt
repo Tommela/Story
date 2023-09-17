@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
 This is sam toooo funck yougit
 
 
+=======
+This is three trees on the roal
+
+koko yay
+>>>>>>> alien-plot
