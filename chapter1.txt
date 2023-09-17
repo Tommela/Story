@@ -47,15 +47,12 @@ git clone https://github.com/inolen/quakejs.git
 
 ----------------------------------
 
-<<<<<<< HEAD
 Git Branch and Git merge
 
 //add new branch call "alien-plot"
 git branch alien-plot
 
-=======
-addd more
->>>>>>> alien-plot
+
 
 //switch "master" to alien-plot branch
 git checkout alien-plot

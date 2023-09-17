@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is chapter 4 bitch
-=======
-This is chapter 4 bitch ok some more text
->>>>>>> alien-plot
