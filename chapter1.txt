@@ -45,8 +45,6 @@ git clone url <-------------------
 exmaple
 git clone https://github.com/inolen/quakejs.git 
 
-----------------------------------
 
-addd more
 
 
