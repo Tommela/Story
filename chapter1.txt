@@ -43,7 +43,7 @@ Git Cloning lesson
 git clone url <-------------------
 
 exmaple
-git clone https://github.com/inolen/quakejs.git sgdfgsdfgdfa
+git clone https://github.com/inolen/quakejs.git 
 
 ----------------------------------
 
