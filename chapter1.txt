@@ -31,3 +31,22 @@ git rm --cached -r .
 
 -------------------
 https://github.com/github/gitignore
+
+
+
+
+
+
+----------------------------
+Git Cloning lesson
+
+git clone url <-------------------
+
+exmaple
+git clone https://github.com/inolen/quakejs.git
+
+----------------------------------
+
+
+
+
